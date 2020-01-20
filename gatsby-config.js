@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `My glog`,
+    title: `Leandro c Santos`,
     position: 'Programador e Analista de testes',
     description: `Meu blog para divulgação profissional`,
     author: `@leandrosantos`,
@@ -13,6 +13,19 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/posts`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [],
       },
     },
     `gatsby-transformer-sharp`,
