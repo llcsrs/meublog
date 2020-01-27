@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `Leandro C Santos`,
     position: `Analiste e  Developer`,
-    description: `Mu bbbbBlog para divulgação profissional  e demais assuntos.`,
+    description: `Meu Blog para divulgação profissional  e demais assuntos.`,
     author: `@myblog`,
     siteUrl: `https://gatsby-course-will.netlify.com`,
   },
