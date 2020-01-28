@@ -77,8 +77,8 @@ module.exports = {
         name: `Leandro Cruz dos Santos`,
         short_name: `Leandro Santos`,
         start_url: `/`,
-        background_color: `#16202c`,
-        theme_color: `#16202c`,
+        background_color: `var(--highlight)`,
+        theme_color: `var(--highlight)`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
