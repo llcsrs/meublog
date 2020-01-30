@@ -5,9 +5,9 @@ const queries = require("./src/utils/algolia_queries")
 module.exports = {
   siteMetadata: {
     title: `Leandro C Santos`,
-    position: `Analiste e  Developer`,
+    position: `Analista e  Developer`,
     description: `Meu Blog para divulgação profissional  e demais assuntos.`,
-    author: `@myblog`,
+    author: `@lcsrs`,
     siteUrl: `https://gatsby-course-will.netlify.com`,
   },
   plugins: [
@@ -80,13 +80,13 @@ module.exports = {
         background_color: `var(--highlight)`,
         theme_color: `var(--highlight)`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/development-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sitemap`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
-    `gatsby-plugin-netlify-cms`,
+    //`,gatsby-plugin-netlify-cms`
   ],
 }
