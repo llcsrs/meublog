@@ -20,4 +20,3 @@ export const SidebarWrapper = styled.aside`
     width: 100%;
   `}
 `
-
