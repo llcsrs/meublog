@@ -8,6 +8,12 @@ background: '#B31917'
 ---
 <!--StartFragment-->
 
+<!--StartFragment-->
+
+!\[Gatsby](/assets/img/Gatsby.jpg)
+
+<!--EndFragment-->
+
 Dito isso, estamos em 2019. Por bastante tempo [concentrei meus artigos no Medium](https://medium.com/@felipefialho). Porém nos últimos meses não estava satisfeito com [algumas mudanças que aconteceram](https://willianjusten.com.br/diga-nao-ao-medium-tenha-sua-propria-plataforma/) por lá.
 
 E como sempre, surgiram milhares de novas tecnologias, então achei que era o momento de estudar desenvolvendo uma nova versão para esse projeto, e de quebra usando algumas tecnologias bem *hypes*, como:
