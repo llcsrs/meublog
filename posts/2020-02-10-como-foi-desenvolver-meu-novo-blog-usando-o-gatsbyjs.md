@@ -8,6 +8,12 @@ background: '#B31917'
 ---
 <!--StartFragment-->
 
+<!--StartFragment-->
+
+!\[Gatsby](/assets/img/Gatsby.jpg)
+
+<!--EndFragment-->
+
 Dito isso, estamos em 2019. Por bastante tempo [concentrei meus artigos no Medium](https://medium.com/@felipefialho). Porém nos últimos meses não estava satisfeito com [algumas mudanças que aconteceram](https://willianjusten.com.br/diga-nao-ao-medium-tenha-sua-propria-plataforma/) por lá.
 
 E como sempre, surgiram milhares de novas tecnologias, então achei que era o momento de estudar desenvolvendo uma nova versão para esse projeto, e de quebra usando algumas tecnologias bem *hypes*, como:
@@ -23,7 +29,7 @@ E como sempre, surgiram milhares de novas tecnologias, então achei que era o mo
 * [Netlify](https://www.netlify.com/)
 
 <!--EndFragment-->
-blob:http://localhost:8000/781a64f5-7012-4250-b49a-1cb4bc354cc0
+
 <!--StartFragment-->
 
 Gatsby é um SSG (Static Site Generator), mas tem como diferencial ser totalmente baseado em React e utilizar o poder do GraphQL para consumir conteúdos e assets.
