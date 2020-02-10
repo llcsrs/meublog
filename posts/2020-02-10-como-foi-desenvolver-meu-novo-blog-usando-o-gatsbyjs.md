@@ -23,7 +23,7 @@ E como sempre, surgiram milhares de novas tecnologias, então achei que era o mo
 * [Netlify](https://www.netlify.com/)
 
 <!--EndFragment-->
-
+blob:http://localhost:8000/781a64f5-7012-4250-b49a-1cb4bc354cc0
 <!--StartFragment-->
 
 Gatsby é um SSG (Static Site Generator), mas tem como diferencial ser totalmente baseado em React e utilizar o poder do GraphQL para consumir conteúdos e assets.
