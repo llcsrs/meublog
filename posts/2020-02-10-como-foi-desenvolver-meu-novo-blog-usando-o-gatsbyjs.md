@@ -8,13 +8,7 @@ background: '#B31917'
 ---
 ![](assets/img/gatsby.jpg)
 
-<!--StartFragment-->
 
-<!--StartFragment-->
-
-!\[Gatsby](/assets/img/Gatsby.jpg)
-
-<!--EndFragment-->
 
 Dito isso, estamos em 2019. Por bastante tempo [concentrei meus artigos no Medium](https://medium.com/@felipefialho). Porém nos últimos meses não estava satisfeito com [algumas mudanças que aconteceram](https://willianjusten.com.br/diga-nao-ao-medium-tenha-sua-propria-plataforma/) por lá.
 
