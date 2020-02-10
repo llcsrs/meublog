@@ -6,6 +6,8 @@ image: assets/img/gatsby.jpg
 category: dev
 background: '#B31917'
 ---
+![](assets/img/gatsby.jpg)
+
 <!--StartFragment-->
 
 <!--StartFragment-->
