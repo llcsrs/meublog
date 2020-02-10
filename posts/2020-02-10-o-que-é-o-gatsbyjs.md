@@ -15,7 +15,7 @@ description: >-
 date: '2020-02-10 02:49:12'
 image: assets/img/gatsby.jpg
 category: dev
-background: '#FAEBD7'
+background: '#B31917'
 ---
 ![](assets/img/gatsby.jpg "Gatsby")
 
