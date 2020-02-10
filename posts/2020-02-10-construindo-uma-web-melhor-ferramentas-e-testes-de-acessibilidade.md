@@ -8,7 +8,7 @@ description: >-
 date: '2020-02-10 08:02:03'
 image: assets/img/DreamHost-Accessibility-Tips-750x498.jpg
 category: html
-background: '#FFFACD'
+background: '#EB7728'
 ---
 ![](assets/img/DreamHost-Accessibility-Tips-750x498.jpg)
 
