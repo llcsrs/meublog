@@ -46,6 +46,7 @@
     "sharp": "0.32.6"
   },
   "devDependencies": {
+    "babel-plugin-styled-components": "^2.1.4",
     "prettier": "^1.18.2"
   },
   "keywords": [
