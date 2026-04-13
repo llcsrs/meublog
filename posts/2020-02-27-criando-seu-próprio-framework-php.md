@@ -1,10 +1,10 @@
 ---
 title: Criando seu próprio framework PHP 5°
 description: >-
-  /**  * Este é o quinto de uma série de artigos traduzidos e adaptados  * a
-  partir dos originais: "Create your own PHP Framework -  *
-  http://symfony.com/doc/current/create_framework/index.html  * by Fabien
-  Potencier.  */
+  Este é o quinto de uma série de artigos traduzidos e adaptados a
+  partir dos originais: "Create your own PHP Framework -
+  http://symfony.com/doc/current/create_framework/index.html by Fabien
+  Potencier."
 date: '2020-02-27 11:51:25'
 image: assets/img/php-900x506.jpg
 category: dev
