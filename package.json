@@ -39,7 +39,11 @@
     "react-instantsearch-dom": "^6.39.0",
     "styled-components": "^6.0.0",
     "styled-icons": "^10.47.0",
-    "styled-media-query": "^2.1.2"
+    "styled-media-query": "^2.1.2",
+    "sharp": "0.32.6"
+  },
+  "overrides": {
+    "sharp": "0.32.6"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
