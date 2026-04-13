@@ -60,7 +60,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
-    {
+    ...(process.env.GATSBY_ALGOLIA_APP_ID && process.env.ALGOLIA_ADMIN_KEY ? [{
       resolve: `gatsby-plugin-algolia`,
       options: {
         appId: process.env.GATSBY_ALGOLIA_APP_ID,
@@ -70,7 +70,7 @@ module.exports = {
         chunkSize: 10000, // default: 1000
         enablePartialUpdates: true,
       },
-    },
+    }] : []),
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
