@@ -12,7 +12,7 @@
     "dotenv": "^16.0.3",
     "gatsby": "^5.11.0",
     "gatsby-plugin-image": "^3.11.0",
-    "gatsby-plugin-algolia-search": "^0.5.0",
+    "gatsby-plugin-algolia": "^1.0.3",
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-netlify-cms": "^4.1.9",
     "gatsby-plugin-offline": "^6.11.0",
