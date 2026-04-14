@@ -11,6 +11,14 @@ Bem-vindo ao repositório do meu blog pessoal! Este projeto foi **recentemente m
 - **Controle Estrito de Versão do Node (`18.20.8`)**: A fim de evitar falhas e conflitos de dependências durantes as construções em CI (ex. Netlify), utilizamos o arquivo `.nvmrc` fixado explícito na versão `18.20.8`.
 - **Configuração Netlify (`netlify.toml`)**: Assegura o Node.js v18.20.8 nos ambientes da nuvem, além de passar a flag `--legacy-peer-deps` para o contorno de restrições de árvore de pacotes do npm v9+.
 
+### 🔍 Configuração do Algolia Search (Opcional)
+Se você desejar utilizar o **Algolia** para o sistema de busca em produção, deve fornecer as chaves corretas como variáveis de ambiente na **Netlify** (em *Site settings → Build & deploy → Environment*):
+- `GATSBY_ALGOLIA_APP_ID`: Seu Application ID.
+- `ALGOLIA_ADMIN_KEY`: Sua Admin API Key (necessária para indexar novos posts no build).
+- `GATSBY_ALGOLIA_INDEX_NAME`: O nome do índice desejado.
+
+> **Nota:** Caso essas variáveis estejam ausentes ou possuam um valor provisório no CI, o código saltará automaticamente a construção do índice, de forma a **prevenir** erros do tipo "*Unreachable hosts*" e não quebrar o seu Deploy da Netlify.
+
 ---## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
