@@ -1,18 +1,17 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby's default starter
+  Blog Pessoal - Leandro Cruz dos Santos (Gatsby v5)
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Bem-vindo ao repositório do meu blog pessoal! Este projeto foi **recentemente modernizado** para a versão **Gatsby v5** utilizando as seguintes tecnologias:
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+### ✨ Atualizações de Modernização e Requisitos
 
-## 🚀 Quick start
+- **Gatsby v5 e React 18**: Motor do site totalmente rodando na API mais moderna do framework.
+- **Nova API de Imagens**: Migração do descontinuado `gatsby-image` para o novo ecossistema `gatsby-plugin-image` com as consultas `gatsbyImageData` (maior performance).
+- **Controle Estrito de Versão do Node (`18.20.8`)**: A fim de evitar falhas e conflitos de dependências durantes as construções em CI (ex. Netlify), utilizamos o arquivo `.nvmrc` fixado explícito na versão `18.20.8`.
+- **Configuração Netlify (`netlify.toml`)**: Assegura o Node.js v18.20.8 nos ambientes da nuvem, além de passar a flag `--legacy-peer-deps` para o contorno de restrições de árvore de pacotes do npm v9+.
+
+---## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
 
