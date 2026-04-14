@@ -60,6 +60,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
+    /*
     ...(process.env.GATSBY_ALGOLIA_APP_ID && process.env.ALGOLIA_ADMIN_KEY && process.env.GATSBY_ALGOLIA_INDEX_NAME && process.env.GATSBY_ALGOLIA_APP_ID !== 'xxx' && process.env.GATSBY_ALGOLIA_APP_ID !== 'YOUR_APP_ID' ? [{
       resolve: `gatsby-plugin-algolia`,
       options: {
@@ -71,6 +72,7 @@ module.exports = {
         enablePartialUpdates: true,
       },
     }] : []),
+    */
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
